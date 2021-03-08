@@ -1,6 +1,7 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 I live in Wonderland.
 Alice likes the Chessire cat.
+Alice likes to play cards.
 Remote changes to this file.
 Second remote change.
 Third remote change.
