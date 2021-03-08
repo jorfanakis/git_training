@@ -7,3 +7,4 @@ Remote changes to this file.
 Second remote change.
 Third remote change.
 Fourth remote change.
+Local change after mote changes.
