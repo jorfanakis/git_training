@@ -9,3 +9,4 @@ Third remote change.
 Fourth remote change.
 Local change after mote changes.
 Fifth remote change.
+Local change after mote changes ][.
